@@ -1,0 +1,178 @@
+[
+    {
+        "Name":"Two Flowers Restaurant",
+        "description":"In Pedoulas,serves traditional Cypriot cuisine with panaromic views of valleys",
+        "mapsLink":"https://maps.app.goo.gl/pNZYgdQxxFtbwLm6A",
+        "Latitude":34.7501197,
+        "Longitude":33.236322,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNICsDfnGcuIW1ukmFmiZDQDpziqRbYyVnIYFkd=w497-h240-k-no"
+    },
+    {
+        "Name":"Mustakalis Restaurant",
+        "description":"A 90 year old Cypriot restaurant,a fisherman named Mustakalis built it,seafood along with meat and other Cypriot mezze will be found",
+        "mapsLink":"https://maps.app.goo.gl/yPe7f9tBsxVMd7EQ8",
+        "Latitude":35.0349070184,
+        "Longitude":32.4233717954,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPu4eTPl7bOV6WtwqRjKdTWYrRbqL41i1BrJSUT=w408-h271-k-no"
+    },
+    {
+        "Name":"Mylos Restaurant",
+        "description":"Located in Pano,Gialia",
+        "mapsLink":"https://maps.app.goo.gl/KoZNk9BDL8qye3xb8",
+        "Latitude":35.097113888,
+        "Longitude":32.5264738492,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipOdvNmk8SCmKTG7yckvZRoats0LrAuWYU0GC9LX=w408-h544-k-no"
+    },
+    {
+        "Name":"Kartanas Meze",
+        "description":"Located in Pernara",
+        "mapsLink":"https://maps.app.goo.gl/JiaCb3vaEzyKkuRT7",
+        "Latitude":35.0305332516,
+        "Longitude":34.038210783,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipP37YAt_vQjEZfzz9TS8iSqUYcAE4Cznpf2fBnX=w408-h306-k-no"
+    },
+    {
+        "Name":"Old Village Tavern",
+        "description":"Located in Ayia Napa",
+        "mapsLink":"https://maps.app.goo.gl/31njtrh7at6Hqvms9",
+        "Latitude":34.7071295,
+        "Longitude":33.0226168,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipOs29wNFA4JNL0AJ1HHUgLyCQE4OHKWd6q-nABb=w408-h304-k-no"
+    },
+    {
+        "Name":"Nissiotiko Restaurant",
+        "description":"Located in Protaras",
+        "mapsLink":"https://maps.app.goo.gl/7QtiCrLdUeDg1Xyj8",
+        "Latitude":34.7131235,
+        "Longitude":33.0676462,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipOGKW0rv56gg7Je5HBY8WlUkomRW463SrsoEOrg=w409-h240-k-no"
+    },
+    {
+        "Name":"Sofia and Andreas Traditional House",
+        "description":"Located in Letympou,serves authentic home-cooked Cypriot food",
+        "mapsLink":"https://maps.app.goo.gl/kNhATJZ75613NqsW6",
+        "Latitude":34.7131235,
+        "Longitude":33.0676462,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipMSGZKV1VJhh2ZO7Lf5XU0p3TogH5YV4BBserKT=w408-h306-k-no"
+    },
+    {
+        "Name":"Folia Tou Dracou Restaurant",
+        "description":"Not modern,reminiscent of memories of the owner's grandma,has displays of plates and farming stuff used by her(can be busy and located in a quiet location )",
+        "mapsLink":"https://maps.app.goo.gl/aRAbj4Xxx9pvP6tQA",
+        "Latitude":34.7071295,
+        "Longitude":33.0226168,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipP-RDvLxUS8Md58rG4CCarcLJ9X8BBuAZMdWF0m=w428-h240-k-no"
+    },
+    {
+        "Name":"Seventh St.Geroge's tavern",
+        "description":"Authentic Cypriot Mezze",
+        "mapsLink":"https://maps.app.goo.gl/jiueARfWzG1XNq97",
+        "Latitude":34.7617024729,
+        "Longitude":32.4413782529,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipN7zgXK28iOqECYxqKEoRq6VB8QCRi5wAys7L0L=w408-h307-k-no"
+    },
+    {
+        "Name":"Kafkaros Taverna",
+        "description":"In Protaras,Cyprus",
+        "mapsLink":"https://maps.app.goo.gl/4ym7Q5gyNHeGLxCw7",
+        "Latitude":34.988498758,
+        "Longitude":34.0712693411,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPm-iR9ow4QvU2Unf_MPj-5_xx0JddUoN6WIqU9=w426-h240-k-no"
+    },
+    {
+        "Name":"Chytron Gevseis Restaurant",
+        "description":"In Nicosia",
+        "mapsLink":"https://maps.app.goo.gl/823Lhqp5A1tk7mAb9",
+        "Latitude":35.1613869991,
+        "Longitude":33.3608510847,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPdY8-MQu_6sLwod4dXbcGHc99hKJmdoBIehkBY=w408-h272-k-no"
+    },
+    {
+        "Name":"Napa Tavern",
+        "description":"In Ayia Napa,it's a traditional house of someone,you can get a Mezze of 15-20 dishes",
+        "mapsLink":"https://maps.app.goo.gl/Jk5R1s8vbPXGbthg6",
+        "Latitude":34.9920002123,
+        "Longitude":34.0007344096,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNYPFycYqn5t15G0QHiMx4FM8k-faInGMCSsEc-=w408-h272-k-no"
+    },
+    {
+        "Name":"TO STEKI TOU BOSS Restaurant",
+        "description":"Located in Paralimni,Cyprus",
+        "mapsLink":"https://maps.app.goo.gl/LFnkCUh8hjixVtW76",
+        "Latitude":35.0368120519,
+        "Longitude":33.9822646271,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNBETih7C4-5bdbiEN_vpkz26HdJ3L--3rGXMZI=w425-h240-k-no"
+    },
+    {
+        "Name":"Sunset Family Taverna",
+        "description":"It's in Peyia,running for 20 years (everything is home-cooked)",
+        "mapsLink":"https://maps.app.goo.gl/StP2avYeTax4sKtc7",
+        "Latitude":34.901185174,
+        "Longitude":32.3288110644,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipMB__sJc2jONvMcrT8obthyHlhD_vnTbX20aFIZ=w426-h240-k-no"
+    },
+    {
+        "Name":"Georgia's AVLI Tavern",
+        "description":"In Protaras",
+        "mapsLink":"https://maps.app.goo.gl/wKdJ5EmPu3VX9PXm9",
+        "Latitude":35.0173711234,
+        "Longitude":34.0480333023,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipMABuwffsagBUz0mPM3Do_mPiOxTUrmmzT3elJI=w408-h544-k-no"
+    },
+    {
+        "Name":"Mathaios",
+        "description":"In an old part of Nicosia,traditional restaurant running for 40 years",
+        "mapsLink":"https://maps.app.goo.gl/aC8YVo2iTxN14jME8",
+        "Latitude":35.1736334864,
+        "Longitude":33.3629486407,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipN-UMvhjlygZcjmieL4mUSWXUWjwyvCLFgoIDuP=w408-h544-k-no"
+    },
+    {
+        "Name":"Meze Taverna Restaurant",
+        "description":"Serves both Cypriot and Greek Cuisines in Limassol",
+        "mapsLink":"https://maps.app.goo.gl/5hYPhUdRczNHQhHZ6",
+        "Latitude":34.6765842188,
+        "Longitude":33.047486361,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNcdQYWgwpLr3DZ1y1ykbvAWKac7s5uKUrbtaU6=w426-h240-k-no"
+    },
+    {
+        "Name":"Kathodon",
+        "description":"In Nicosia,has both Cypriot-Greek and Turkish Cuisines (can be over-crowded",
+        "mapsLink":"https://maps.app.goo.gl/unzYBH9jVoK1ooyLA",
+        "Latitude":35.1741547,
+        "Longitude":33.3612244202,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNdySBvAPW1G6VKgSMbWZev6sKhJbdeVEF78JCq=w408-h305-k-no"
+    },
+    {
+        "Name":"Mousikos Tavern",
+        "description":"In Sotira Village",
+        "mapsLink":"https://maps.app.goo.gl/5Rs7rWsaUK4FYN899",
+        "Latitude":35.0253039858,
+        "Longitude":33.9548913221,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNUrS59uGd5ISqGjJdRfrCYZULqU5pdbTF0YPbu=w426-h240-k-no"
+    },
+    {
+        "Name":"Tochni Tavern",
+        "description":"Located on the top,has panaromic views of countryside and sea",
+        "mapsLink":"https://maps.app.goo.gl/eFh2cCs1CPCwh7JW8",
+        "Latitude":34.7827173,
+        "Longitude":33.3235008068,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPmrRNViCsFEmvO481WgWSfLxygzYhgXPb-FfLP=w408-h408-k-no"
+    },
+    {
+        "Name":"Souvlaki Livadias",
+        "description":"In Limassol,offers budget-friendly options of traditional meat platters,gyros and salads",
+        "mapsLink":"https://maps.app.goo.gl/Xvahpyqtwxx4atUT6",
+        "Latitude":34.6859677,
+        "Longitude":33.0586691202,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNV-2lqfht-SDgebkXSs9qgROvg-iW8RLj2fr8A=w426-h240-k-no"
+    },
+    {
+        "Name":"Pagrakatios Tavern",
+        "description":"Located in Paphos,has local live music with amazing food.",
+        "mapsLink":"https://maps.app.goo.gl/5eMaHv4qNQX1Xgkc8",
+        "Latitude":34.7793990878,
+        "Longitude":32.4206375644,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipOrx757ruSbnyzuV0Gaq-51fyxBTj8J-kMxpmEa=w532-h240-k-no"
+    }
+]

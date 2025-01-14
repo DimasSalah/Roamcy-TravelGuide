@@ -1,0 +1,553 @@
+[
+    {
+        "Name": "Mitsero Village ",
+        "MapLink": " https://maps.app.goo.gl/6eC3gZ3z4EzRzPUd6",
+        "mapName": "Mitsero Village ",
+        "latitude": 35.0416538821182,
+        "longitude": 33.1281267658585,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMn9rXVvPnO1t902kQQ0Kz_1ygMyhVyV4pIyTdT=w426-h240-k-no",
+        "rating": 4.9
+    },
+    {
+        "Name": "Agrokipia Village ",
+        "MapLink": " https://maps.app.goo.gl/N5MASZwafXgceYsf9",
+        "mapName": "Agrokipia Village ",
+        "latitude": 35.0445974908137,
+        "longitude": 33.1553720503205,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPyghTy428ldSdrjHqDIi2LJD8Nw2j8m_EHC7ZF=w426-h240-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Red Lake ",
+        "MapLink": " https://maps.app.goo.gl/xzDw6QWmLUs7gun76",
+        "mapName": "Red Lake ",
+        "latitude": 35.0362293239399,
+        "longitude": 33.1166925369131,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNEomrMtB8Q70XbEQx8Zv578xS01RPTpa1D7o9r=w408-h274-k-no",
+        "rating": 4.4
+    },
+    {
+        "Name": "Taverna Souvantza ",
+        "MapLink": " https://maps.app.goo.gl/hYg3pdnCY9U2Gt1F7",
+        "mapName": "Taverna Souvantza ",
+        "latitude": 35.0450519719812,
+        "longitude": 33.1563920517323,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPiLzEccdggJydxDH1gb-WSi5Ea4SUKYSFXIfUe=w408-h271-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Moutoullas Village ",
+        "MapLink": " https://maps.app.goo.gl/v37AUNU1C8zZ4ttY6",
+        "mapName": "Moutoullas Village ",
+        "latitude": 34.9834235959187,
+        "longitude": 32.8244777980118,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPfD_sjAp7aEFeXAJWlQNRNWZW2xjKQNhT8_yuW=w426-h240-k-no",
+        "rating": 4.6,
+        "description": "A beautiful mountain village in Nicosia,well-known for it's woodcarvings and bountiful fruit. Things to do:Visit Church of Panayia Tou Moutoulla(UNESCO World Heritage Site),do the nature trail of the baths of Rigena and Chlio,you can see a waterfall on this hike.Church of Elias has a panaromic view of this village.Where to eat:Kyriakides Cafe Bar "
+    },
+    {
+        "Name": "Cafe Kyriakides ",
+        "MapLink": " https://maps.app.goo.gl/dnqEHTUPYgTVSVYBA",
+        "mapName": "Cafe Kyriakides ",
+        "latitude": 34.9848072645744,
+        "longitude": 32.8243134615188,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNm3I1wHAp4HDXMEcFzQU9WbBHT55g-ZIz2Frc=w408-h544-k-no",
+        "rating": 4.6
+    },
+    {
+        "Name": "Panayia Tou Moutoulla ",
+        "MapLink": " https://maps.app.goo.gl/BRrkhoc38e1Lmdfk6",
+        "mapName": "Panayia Tou Moutoulla ",
+        "latitude": 34.9828514408538,
+        "longitude": 32.8253338075518,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipN9pM2aoymn-8sQK-8_L9_SL8QTrfmiRkxj7A-d=w408-h306-k-no",
+        "rating": 4.5
+    },
+    {
+        "Name": "Church of Elias ",
+        "MapLink": " https://maps.app.goo.gl/X1Cu9vWikvaqLCcG9",
+        "mapName": "Church of Elias ",
+        "latitude": 34.9894823016959,
+        "longitude": 32.846465218216,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMYnDsVpNe8RPEAaf6Hme_UX_3KA5VlRJE59Xzg=w408-h306-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Nature Trail ",
+        "MapLink": " https://maps.app.goo.gl/WPWcocdn7Bm6YjcV9",
+        "mapName": "Nature Trail ",
+        "latitude": 35.0245740882857,
+        "longitude": 32.9343773686208,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPkh5YTop_LfOTFm49GQWd975sm_xhQlhEZ5QEI=w408-h543-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Foini Village ",
+        "MapLink": " https://maps.app.goo.gl/5pEzzEsYDcvpwoHy5",
+        "mapName": "Foini Village ",
+        "latitude": 34.8938951985701,
+        "longitude": 32.8366139760633,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMycJ70BFB10x-kkhWTXzpb6vme1TKH6Y5o3mGY=w408-h306-k-no",
+        "rating": 4.5
+    },
+    {
+        "Name": "Monastery ",
+        "MapLink": " https://maps.app.goo.gl/smRY1xXfHMzdEdNo8",
+        "mapName": "Monastery ",
+        "latitude": 34.913087063969,
+        "longitude": 32.8397195959127,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNa-EcWR6fkH-g48RWSNJPtlHA3-ElNHzgV30kr=w408-h306-k-no",
+        "rating": 4.7
+    },
+    {
+        "Name": "Waterfall ",
+        "MapLink": " https://maps.app.goo.gl/KqzccVz9AzUHie5XA",
+        "mapName": "Waterfall ",
+        "latitude": 34.9050486848749,
+        "longitude": 32.8417976498796,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPuZwXiiik7w5Pfbqi3beMWL29T13fmjHBkqyXU=w408-h544-k-no",
+        "rating": 4.6
+    },
+    {
+        "Name": "Phini Village ",
+        "MapLink": " https://maps.app.goo.gl/n4AW2TdNT7A3eSjM7",
+        "mapName": "Phini Village ",
+        "latitude": 34.8939792983503,
+        "longitude": 32.8368394755362,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipN1uIKrA1YXq9J9Q8_usQA5CIzh5BNJXarsiDkH=w408-h544-k-no",
+        "rating": 4.0,
+        "description": "Traditional pottery village passed down by generations, Where to eat:Phini Tavern,Ourania Delights(For Loukoumia),What to do-Hike or bike 4.5km Phini-Trooditissa Nature Trail with Chantara waterfall,a river,golden oak,variety of birds,strawberry trees,Calabrian Pine,visit Trooditissa Monastery,bell tower of the timios Stavros Church,Pilavakeio Museum of traditional church,try Pastra traditional coffee shop,pottery making workshop by Giota Aristidou(+357 99136262) "
+    },
+    {
+        "Name": "Stavros Church ",
+        "MapLink": " https://maps.app.goo.gl/p9A1UbZBW9rxYF8VA",
+        "mapName": "Stavros Church ",
+        "latitude": 34.8939792983503,
+        "longitude": 32.8368394755362,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMTOM50aHZw1plNzFY3jS9kYky95rtS5-XUgVFa=w408-h306-k-no",
+        "rating": 4.6
+    },
+    {
+        "Name": "Foini Pottery ",
+        "MapLink": " https://maps.app.goo.gl/k8UVSVqU4jut8b289",
+        "mapName": "Foini Pottery ",
+        "latitude": 34.8974345674043,
+        "longitude": 32.8425442525292,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMHuOfSoy4VVXdshgSCaun6W-exl_XgV282MEbC=w408-h306-k-no",
+        "rating": 4.7
+    },
+    {
+        "Name": "Prodromos Village ",
+        "MapLink": " https://maps.app.goo.gl/EmLgbNic57PyKzVp6",
+        "mapName": "Prodromos Village ",
+        "latitude": 34.9489380333758,
+        "longitude": 32.8349458529413,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipO_jlLMr7PHUU2S7qIzrCHiSgWfJEgaeqA0JYuG=w408-h725-k-no",
+        "rating": 5,
+        "description": "Things to do-Prodromos Reservoir and it's picnic site,(fantastic views),RESTAURANT-Byzantio Restaurant"
+    },
+    {
+        "Name": "Reservoir ",
+        "MapLink": " https://maps.app.goo.gl/tafq1BB2ZCrWWuYMA",
+        "mapName": "Reservoir ",
+        "latitude": 34.9490322216147,
+        "longitude": 32.8448764303595,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNpBCCRHm4IGzB5g-hHwOpEprr78NrH1SkP_quv=w408-h306-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Byzantino Restaurant ",
+        "MapLink": " https://maps.app.goo.gl/oCnJ581WETesHPxh8",
+        "mapName": "Byzantino Restaurant ",
+        "latitude": 35.4836637964056,
+        "longitude": 34.2400258823536,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNxh4JggC3EA8gYcYAW5msXzWA8v92g9udLNKxo=w408-h544-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Lemithou Village ",
+        "MapLink": " https://maps.app.goo.gl/fiWdkY5Qh2UrVAGW7",
+        "mapName": "Lemithou Village ",
+        "latitude": 34.9509274096121,
+        "longitude": 32.8137524545368,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPgah4ytmZjB6NjnjqdBEXxNTkAi2ii5zcm4VhR=w493-h240-k-no",
+        "rating": 4.1,
+        "description": "Quiet place for hikes and biking,local wineries can be visited"
+    },
+    {
+        "Name": "Liopetri Village ",
+        "MapLink": " https://maps.app.goo.gl/4CPwbqT38k2xVXNKA",
+        "mapName": "Liopetri Village ",
+        "latitude": 35.0100354420791,
+        "longitude": 33.8917976421352,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNDGfvw9uj3gzkguGvOqMeQzWjpZ0zjckf13ELc=w408-h354-k-no",
+        "rating": 4.5,
+        "description": "Famous for it's traditional basket weaving.Has a river which is a pitch fishing settler "
+    },
+    {
+        "Name": "Liopetri Beach ",
+        "MapLink": " https://maps.app.goo.gl/vup6safPyGuCM2oe7",
+        "mapName": "Liopetri Beach ",
+        "latitude": 34.9706339049382,
+        "longitude": 33.9016882271469,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipML2b1fjd4iDDavzQoMsrzhEpBlDeewFY-MIv7k=w426-h240-k-no",
+        "rating": 4.5
+    },
+    {
+        "Name": "Demetrion Fish Restaurant ",
+        "MapLink": " https://maps.app.goo.gl/KDLmZ5ZgJsCvdg1a6",
+        "mapName": "Demetrion Fish Restaurant ",
+        "latitude": 34.9720009061119,
+        "longitude": 33.901987186698,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipM08CfticwoI9omMeDicAtblVIoTLoYDXdywkTu=w408-h544-k-no",
+        "rating": 4.5
+    },
+    {
+        "Name": "Tzelefos Bridge ",
+        "MapLink": " https://maps.app.goo.gl/GN3x2azTzYHSf7ww9",
+        "mapName": "Tzelefos Bridge ",
+        "latitude": 34.8896225051043,
+        "longitude": 32.748786682421,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPGSxwGcI4dgdI6lBDneC-chQF37AQ0wjvUluI4=w426-h240-k-no",
+        "rating": 4.7,
+        "description": "It's a secluded place 6 km away from Agios Nikolaos Village in Paphos Forest.Stunning photography spot.(largest stone bridge in Cyprus)People can visit nearby villages of Omodos, Arsos and Vasa"
+    },
+    {
+        "Name": "Omodos Village ",
+        "MapLink": " https://maps.app.goo.gl/XwaavhZYBM2VmrR76",
+        "mapName": "Omodos Village ",
+        "latitude": 34.8488726647335,
+        "longitude": 32.8078588498526,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOpVNW6brxWQ8YPPPYDCF99Df9wxFdWXLG29fl1=w408-h306-k-no",
+        "rating": 4.7,
+        "description": "Are all known for their wineries and vineyards "
+    },
+    {
+        "Name": "Monastery of the Holy Cross ",
+        "MapLink": " https://maps.app.goo.gl/8TL5zwtScwWB4w6k7",
+        "mapName": "Monastery of the Holy Cross ",
+        "latitude": 34.8479535604686,
+        "longitude": 32.8094112810944,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMTOM50aHZw1plNzFY3jS9kYky95rtS5-XUgVFa=w408-h306-k-no",
+        "rating": 4.6
+    },
+    {
+        "Name": "Vassa Village ",
+        "MapLink": " https://maps.app.goo.gl/3BkfFMT1VuDYCgQ77",
+        "mapName": "Vassa Village ",
+        "latitude": 34.8332651300902,
+        "longitude": 32.792805716815,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPKDVvO18OjLReKoqa7R9oMO-oW3UsIPXDb5SsU=w408-h864-k-no",
+        "description": "Vassa Village is a beautiful village located in the Troodos Mountains of Cyprus. It offers stunning views of the surrounding countryside and is a popular destination for hiking and nature lovers.",
+        "rating": 4.5
+    },
+    {
+        "Name": "Arsos Village ",
+        "MapLink": " https://maps.app.goo.gl/oAJfU9fgHYfAPyAi6",
+        "mapName": "Arsos Village ",
+        "latitude": 34.8384553572343,
+        "longitude": 32.7703560255055,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPN5gw8PydClwzJr9yxm3WnFQx5_iK2H59dAYyX=w408-h306-k-no",
+        "description": "Arsos Village is a charming village located in the Troodos Mountains of Cyprus. It offers a peaceful atmosphere and traditional Cypriot architecture, making it a great place to explore the local culture and enjoy the natural beauty of the area.",
+        "rating": 4.5
+    },
+    {
+        "Name": "The Black Geese ",
+        "MapLink": " https://maps.app.goo.gl/KUnGsoDk8aosc9rx8",
+        "mapName": "The Black Geese ",
+        "latitude": 34.8474406031552,
+        "longitude": 32.8090350252742,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOM3Tnf4V15_mPH7ia_DhZry69znFo8fG3MpjAw=w408-h408-k-no",
+        "description": "The Black Geese is a popular restaurant in Cyprus that offers a wide range of traditional Cypriot dishes. The restaurant is known for its delicious food and friendly atmosphere, making it a great place to enjoy a meal with friends and family.",
+        "rating": 4.5
+    },
+    {
+        "Name": "Stou Kir Yianni ",
+        "MapLink": " https://maps.app.goo.gl/jmYJkEMwPMCDTKzH6",
+        "mapName": "Stou Kir Yianni ",
+        "latitude": 34.848714400291,
+        "longitude": 32.8099715694552,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPLf8TAXaAZdXV64Qpmg72n4DlaUfNPkttGOZLk=w408-h306-k-no",
+        "description": "Stou Kir Yianni is a traditional Cypriot restaurant that offers a wide range of delicious dishes. The restaurant is known for its friendly atmosphere and excellent service, making it a great place to enjoy a meal with friends and family.",
+        "rating": 4.5
+    },
+    {
+        "Name": "Macharias Monastery ",
+        "MapLink": " https://maps.app.goo.gl/ApsPJKvhtH2U9cLb7",
+        "mapName": "Macharias Monastery ",
+        "latitude": 34.9408141119435,
+        "longitude": 33.1918791689293,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOPBu-tjlCptn511cUXz6dLb5PktId0qIL7LqW1=w408-h271-k-no",
+        "description": "Macharias Monastery is a historic monastery located in the Troodos Mountains of Cyprus. It offers a peaceful atmosphere and beautiful views of the surrounding countryside, making it a great place to explore the local culture and enjoy the natural beauty of the area.",
+        "rating": 4.8
+    },
+    {
+        "Name": "Lazanias Village ",
+        "MapLink": " https://maps.app.goo.gl/53wxrfTVag9pijYq7",
+        "mapName": "Lazanias Village ",
+        "latitude": 34.9494087211308,
+        "longitude": 33.174775405191,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNsOH0DtnNhHtwW0cA9jRdhUWV3zIGnV4SRdwDS=w493-h240-k-no",
+        "description": "Lazanias Village is a charming village located in the Troodos Mountains of Cyprus. It offers a peaceful atmosphere and traditional Cypriot architecture, making it a great place to explore the local culture and enjoy the natural beauty of the area.",
+        "rating": 4.8
+    },
+    {
+        "Name": "Fikardou Village ",
+        "MapLink": " https://maps.app.goo.gl/Fxx3DCNbMqnk9hHG6",
+        "mapName": "Fikardou Village ",
+        "latitude": 34.9587953449753,
+        "longitude": 33.1723973744907,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMY9Pb8hBV5_kk0pxfXJN2LTTCM0AvQWQ1Vu1UZ=w408-h306-k-no",
+        "description": "Known for it's Christmas markets as a Christmas village. ",
+        "rating": 4.9
+    },
+    {
+        "Name": "Limnatis Village ",
+        "MapLink": " https://maps.app.goo.gl/j4UURBUwM7UZwGX66",
+        "mapName": "Limnatis Village ",
+        "latitude": 34.8131475360343,
+        "longitude": 32.9475754744616,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPKjc9hOnprKXAgLSNsLrvY7jJA_GWJ7v2XbqW1=w427-h240-k-no",
+        "rating": 5,
+        "description": "Known for it's Almond flower blooms in Late February to early March (can be crowded) "
+    },
+    {
+        "Name": "River ",
+        "MapLink": " https://maps.app.goo.gl/tKuNUS53ycsvjEfi9",
+        "mapName": "River ",
+        "latitude": 34.8245930112675,
+        "longitude": 32.9191481399706,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMa3JpMCtFsTR1x8pUg830k3SzDnhIMoJnzBpkj=w408-h306-k-no",
+        "rating": 4.5
+    },
+    {
+        "Name": "Lefkara Village ",
+        "MapLink": " https://maps.app.goo.gl/dLD673JHHi6d5qRq7",
+        "mapName": "Lefkara Village ",
+        "latitude": 34.8635323960971,
+        "longitude": 33.3143066921725,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPLRGWenpZvbwVTaRkBgbqWNU_XPxkJ5SMyspQ8=w513-h240-k-nohttps://lh5.googleusercontent.com/p/AF1QipPLRGWenpZvbwVTaRkBgbqWNU_XPxkJ5SMyspQ8=w513-h240-k-no",
+        "rating": 4.8,
+        "description": "Known for it's traditional embroidery of silver laces,silversmiths "
+    },
+    {
+        "Name": "Biscuit Cafe ",
+        "MapLink": " https://maps.app.goo.gl/6PHR98fuzYc8cJ5JA",
+        "mapName": "Biscuit Cafe ",
+        "latitude": 34.8666430313751,
+        "longitude": 33.3074863787157,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOc1czI3X6WX7SeVIzSMDRl2dQIlPQu2fjcRfQ=w408-h306-k-no",
+        "rating": 4.9
+    },
+    {
+        "Name": "Lace Workshop and Silver ",
+        "MapLink": " https://maps.app.goo.gl/7irwkMoYCQUTGD6A8",
+        "mapName": "Lace Workshop and Silver ",
+        "latitude": 34.8674714430826,
+        "longitude": 33.3065082857635,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPJEti_oxj1Hvw9p-4FZPtzyRGJZ3_pT9yMr-_I=w408-h906-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Marina's shop ",
+        "MapLink": " https://maps.app.goo.gl/BqEPqhc8pKoRhZdTA",
+        "mapName": "Marina's shop ",
+        "latitude": 34.8673373314086,
+        "longitude": 33.3072504923523,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMwnIUH5a2UdeuWJetnm9M0XGSXFGxxLKNQomTU=w408-h544-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Mr Christou ",
+        "MapLink": " https://maps.app.goo.gl/zpky1ay6qqm8XSKr5",
+        "mapName": "Mr Christou ",
+        "latitude": 34.8667380284171,
+        "longitude": 33.306872935273,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPb_8Qxv3p6xXos80hDns531jtc-6M8MWqVE0Z9=w408-h544-k-no",
+        "rating": 5
+    },
+    {
+        "Name": "The Xalamantourou Tavern ",
+        "MapLink": " https://maps.app.goo.gl/pSkWYwnAnETvSaXN6",
+        "mapName": "The Xalamantourou Tavern ",
+        "latitude": 34.7610026004862,
+        "longitude": 32.4543129222833,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOOdx6IDtGnEcLopSE9HId_kA9NaM8f7eeObQfB=w408-h544-k-no",
+        "rating": 4.7
+    },
+    {
+        "Name": "Yeroskipou Municipa Beach ",
+        "MapLink": " https://maps.app.goo.gl/3TiYW7k1c7domDXt9",
+        "mapName": "Yeroskipou Municipa Beach ",
+        "latitude": 34.7332207221555,
+        "longitude": 32.4569237841744,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOMeiY70I9t5UkdwXMXHse8EUnlK0ESz2y016Mz=w408-h287-k-no",
+        "rating": 4.2
+    },
+    {
+        "Name": "Yeroskipou Village ",
+        "MapLink": " https://maps.app.goo.gl/EnjPwpiHNMZDutoU7",
+        "mapName": "Yeroskipou Village ",
+        "latitude": 34.7472157548497,
+        "longitude": 32.4801177524941,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPH-VtR-5ecC58rWIi97i7tBT9jsstenqnqBxde=w408-h306-k-no",
+        "rating": 4.7
+    },
+    {
+        "Name": "Byzantine Church ",
+        "MapLink": " https://maps.app.goo.gl/iGcPiUYs8bSPMomL7",
+        "mapName": "Byzantine Church ",
+        "latitude": 34.759860885469,
+        "longitude": 32.4541132075518,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipO5oWuUdnOdPmUVDaVkRpH3sJAaXLJocCxpSA2H=w408-h306-k-no",
+        "rating": 4.6
+    },
+    {
+        "Name": "Folk Art Museum ",
+        "MapLink": " https://maps.app.goo.gl/DTrvTYRp6YpMaJEh6",
+        "mapName": "Folk Art Museum ",
+        "latitude": 34.7597518142233,
+        "longitude": 32.4558371922075,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMqppN_J27K-SEgOciv1vY6n9dnskDNHQM3f5Q4=w408-h272-k-no",
+        "rating": 4.3
+    },
+    {
+        "Name": "Vouni Village ",
+        "MapLink": " https://maps.app.goo.gl/rQxQs7X5k1boUNdx5",
+        "mapName": "Vouni Village ",
+        "latitude": 34.8232848,
+        "longitude": 32.8343273,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMXskz1bET01v9RH0G-BPxu7l0p_GzmsuwiVL-5=w408-h306-k-no",
+        "rating": 4.7
+    },
+    {
+        "Name": "Vouni Panayia Winery ",
+        "MapLink": " https://maps.app.goo.gl/1dzwvNSYYvRuYc358",
+        "mapName": "Vouni Panayia Winery ",
+        "latitude": 34.9209867,
+        "longitude": 32.6259341,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNU2ehavPkkrZJCdR9b_KRcUKPCR8FnVUdWKl6K=w408-h306-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Lenia's Tavern ",
+        "MapLink": " https://maps.app.goo.gl/KGEcHwPuKFS1Q9ug6",
+        "mapName": "Lenia's Tavern ",
+        "latitude": 34.8232403,
+        "longitude": 32.8337745,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMfdIintdLnTRM3XI2DURTfk4ui32Ad9U6dcQ2v=w408-h457-k-no",
+        "rating": 4.7
+    },
+    {
+        "Name": "Olive Museum ",
+        "MapLink": " https://maps.app.goo.gl/XheEjU3tv85eAgYm8",
+        "mapName": "Olive Museum ",
+        "latitude": 34.8169897,
+        "longitude": 32.8738277,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNtdNNa84WjdpC-k_SfUy3TbUQj4ZUzQXkWLRm4=w408-h306-k-no",
+        "rating": 5
+    },
+    {
+        "Name": "Lofou Microbrewery (beers) ",
+        "MapLink": " https://maps.app.goo.gl/Qsrix1uLu7RDdq9KA",
+        "mapName": "Lofou Microbrewery (beers) ",
+        "latitude": 34.8172213,
+        "longitude": 32.8735775,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipN5RwbgxuoGIJoRq6orobuTZk51D6zGdgVwd0Zj=w426-h240-k-no",
+        "rating": 5,
+        "description": "A picturesque village with cobbled streets,where to eat-Lofou Microbrewery (beers) "
+    },
+    {
+        "Name": "Apokryfo Hotel ",
+        "MapLink": " https://maps.app.goo.gl/XwebZJWhTdSKgWj68",
+        "mapName": "Apokryfo Hotel ",
+        "latitude": 34.8168991,
+        "longitude": 32.876712,
+        "imageLink": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHb2b4eGPGc6OxE91W6VqjLMZo_N1xt1JGQXlmdMLSyNpg6iDjAEFX_h7gOrjPYIo65B-c-7cNPnGCWmn2d2mvovT-ULZa8_f1xearOMkReRehmGR0Ti6hWXsoYcqw5ayETIHT6bTIwr9-22xcmMepja5J0w39ET7iY8eZpD9xZO50adqudNpZZyA=w408-h300-k-no",
+        "rating": 4.6
+    },
+    {
+        "Name": " Ayia Mavri winery",
+        "MapLink": " https://maps.app.goo.gl/rCmbJsYLpiGtLyndA",
+        "mapName": " Ayia Mavri winery",
+        "latitude": 34.8439567,
+        "longitude": 32.8630384,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNv1dzx0FAJh9q0H82FFN5fiqcLmTe17NpiNExh=w408-h272-k-no",
+        "rating": 4.4,
+        "description": "Has own vineyards,got known as World's oldest wine still in production ,serves white and red sweet wines"
+    },
+    {
+        "Name": " Kolios winery",
+        "MapLink": " https://maps.app.goo.gl/U89Xkn7WXEoejgVr9",
+        "mapName": " Kolios winery",
+        "latitude": 34.8920625,
+        "longitude": 32.6149375,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipP_PIjf5tJbkxdH5jqpe91HKGgw2_I-1Htp8jT_=w408-h306-k-no",
+        "rating": 4.4,
+        "description": "Serves traditional wines ,has amazing views of green valleys"
+    },
+    {
+        "Name": "Kalopanayotis Village ",
+        "MapLink": " https://maps.app.goo.gl/tUYKbYFucXBzjGUa9",
+        "mapName": "Kalopanayotis Village ",
+        "latitude": 34.9989248,
+        "longitude": 32.8274917,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMqhi-vpwLRReyXPBUlV_-WD2ErrDpeTAIa9aYd=w507-h240-k-no",
+        "rating": 4.5,
+        "description": "A Charming village "
+    },
+    {
+        "Name": "nous restaurant",
+        "MapLink": " https://maps.app.goo.gl/54LsMvUL81gfKnNT6",
+        "mapName": "nous restaurant",
+        "latitude": 34.9929136,
+        "longitude": 32.7944268,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNBgW4lAyh5O-DT5yY59h3Qn9KdyVwdLEQRyLOc=w408-h306-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Το παλιό σινεμά restaurant ",
+        "MapLink": " https://maps.app.goo.gl/9JhRcGEKJMAmqur4A",
+        "mapName": "\u03a4\u03bf \u03c0\u03b1\u03bb\u03b9\u03cc \u03c3\u03b9\u03bd\u03b5\u03bc\u03ac restaurant ",
+        "latitude": 34.9929136,
+        "longitude": 32.7944268,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNPIENdUBCs6XvvGGKS2AZWNVXbK69kPyugZJNX=w408-h306-k-no",
+        "rating": 4.2
+    },
+    {
+        "Name": "Monastery ",
+        "MapLink": " https://maps.app.goo.gl/ju5m6Zd9cRr9DQro7",
+        "mapName": "Monastery ",
+        "latitude": 34.9922835,
+        "longitude": 32.8302116,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOQn1n3pnXHLXKUtD74uvlalyIhnCdiYswZ1smI=w408-h306-k-no",
+        "rating": 4.8
+    },
+    {
+        "Name": "Lania Tavern ",
+        "MapLink": " https://maps.app.goo.gl/LKGRHiyHv1szRBfh7",
+        "mapName": "Lania Tavern ",
+        "latitude": 34.8240034,
+        "longitude": 32.9203679,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOVSQM0OPUvxMpuCoI0aiWfwfwWxcLn3ZtO9Ygu=w408-h306-k-no",
+        "rating": 4.1
+    },
+    {
+        "Name": "Lania Village ",
+        "MapLink": " https://maps.app.goo.gl/jemgDah45wd83Wf39",
+        "mapName": "Lania Village ",
+        "latitude": 34.8250006,
+        "longitude": 32.9216723,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMk-TOIhSjYAuj5H5nerPSt0I3P9JKsOJzlV3Hk=w408-h724-k-no",
+        "description": "It's a beautiful mountain village, Things to do-church of Panagia Valana,Where to eat-Lania Tavern "
+    },
+    {
+        "Name": "Παναγία του Βαλανά Church ",
+        "MapLink": " https://maps.app.goo.gl/gdnuT83zLR1zRX3k8",
+        "mapName": "\u03a0\u03b1\u03bd\u03b1\u03b3\u03af\u03b1 \u03c4\u03bf\u03c5 \u0392\u03b1\u03bb\u03b1\u03bd\u03ac Church ",
+        "latitude": 34.8332404,
+        "longitude": 32.9203435,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMgbhaBlIdbYLXMOUyH3aVa7D96DjwGAsl52-s5=w408-h544-k-no",
+        "rating": 4.9
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "name":"Castle Club,Ayia Napa",
+        "description":"Biggest super club in Cyprus with a capacity of 4000 people",
+        "mapsLink":"https://maps.app.goo.gl/rZYpqwxNMVqGBL1v9",
+        "latitude":34.9898083134,
+        "longitude":33.9980102216,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPIXI_By5gMQU4XUeDvZfWDtbbx0kQT-U2IrEIB=w648-h240-k-no",
+        "rating":3.8
+    },
+    {
+        "name":"Bedrock Inn",
+        "description":"A famous themed cocktail bar with prehistoric decor of flint stones style car and dinasour bones",
+        "mapsLink":"https://maps.app.goo.gl/m5PzweJuMN6wqANT8",
+        "latitude":34.9900928688,
+        "longitude":33.9977880491,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipMxBkNTi4Nz8S4AKuKmWkkXyEgLlJXcZ86-M4-5=w426-h240-k-no",
+        "rating":3.7
+    },
+    {
+        "name":"Love Boat Cocktail Bar",
+        "description":"Located in Protaras with a capacity of 700 people",
+        "mapsLink":"https://maps.app.goo.gl/oSgRSnP1shnY1kXSA",
+        "latitude":35.0126426256,
+        "longitude":34.0553242491,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipO_TwK17lmabAwaFvDoaGlqS3OqcG8X3jA1NUrV=w425-h240-k-no",
+        "rating":4.4
+    },
+    {
+        "name":"Encore",
+        "description":"Located in Ayia Napa",
+        "mapsLink":"https://maps.app.goo.gl/om72asvm5TctLWPV8",
+        "latitude":34.9898853793,
+        "longitude":33.9973344933,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipO0HyD-K3FKSyB8v47P5-POYFhGkIpUvwBavzxn=w408-h272-k-no",
+        "rating":4.2
+    },
+    {
+        "name":"Cliffs Cafe Bar",
+        "description":"In Tala,near Paphos,has panaromic views of sea and cliffs",
+        "mapsLink":"https://maps.app.goo.gl/sFNoAnrMCMSsQ5xL7",
+        "latitude":34.8394523,
+        "longitude":32.4358383068,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipMbuK-TcNI095ciNc96QR_5a3a_toAgktwKJtQG=w408-h544-k-no",
+        "rating":4.7
+    },
+    {
+        "name":"Rainbow Pub",
+        "description":"In Ypsonas,Limassol:It's a men's club",
+        "mapsLink":"https://maps.app.goo.gl/sFNoAnrMCMSsQ5xL7",
+        "latitude":34.8394611058,
+        "longitude":32.4358168491,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipMbuK-TcNI095ciNc96QR_5a3a_toAgktwKJtQG=w408-h544-k-no",
+        "rating":4.7
+    },
+    {
+        "name":"Mr Tippler Bar",
+        "description":"In Paphos,with cocktails and street food items(Not very fancy)",
+        "mapsLink":"https://maps.app.goo.gl/u8Cnj6zmKduUaYeq9",
+        "latitude":34.7773876752,
+        "longitude":32.4208008221,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipP8xb63VB2eOTOUszXTH6LRfu67UgHwkc_nzeeJ=w408-h408-k-no",
+        "rating":4.6
+    },
+    {
+        "name":"Rum and Jam Bar",
+        "description":"Cocktail Bar in Paphos",
+        "mapsLink":"https://maps.app.goo.gl/4ivYxYHN6f2pdjMKA",
+        "latitude":34.7782168123,
+        "longitude":32.4197190356,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPnSZFBe9I-3oDZ4IxSbWL4wIYR4Gw-OI-T68Nt=w408-h306-k-no",
+        "rating":4.7
+    },
+    {
+        "name":"Lost+Found Drinkery",
+        "description":"Appears in the World's Best 50 bar ranks,packed accommodating only 20 drinkers,has retro decor and chequerboard",
+        "mapsLink":"https://maps.app.goo.gl/QmTYdY5iYDrZrYsR9",
+        "latitude":35.1663461055,
+        "longitude":33.3521623356,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipOw1GAYz0nWtJs_FZI6f76jEUqmLvReqxIxvrap=w408-h271-k-no",
+        "rating":4.6
+    },
+    {
+        "name":"Ukiyo Listening Bar",
+        "description":"Audiophile bar in Nicosia,hi-fi can be listened",
+        "mapsLink":"https://maps.app.goo.gl/1tkUyYczNSVRAfon9",
+        "latitude":35.1673290589,
+        "longitude":33.3567497509,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipN84BP8PHr317oStbA85hHuupl2JSuhGHN9-5Cr=w408-h306-k-no",
+        "rating":4.8
+    },
+    {
+        "name":"Blurry Lights",
+        "description":"Located in Nicosia",
+        "mapsLink":"https://maps.app.goo.gl/AQqpkKeY674fDjNL7",
+        "latitude":35.1646058875,
+        "longitude":33.3605026086,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPorjBMANoKvnjxLG2QQc0lM0Q1SvjYTj3pGhHD=w408-h725-k-no",
+        "rating":4.9
+    },
+    {
+        "name":"Granazi",
+        "description":"Located in Nicosia",
+        "mapsLink":"https://maps.app.goo.gl/XBp85hu6AM3owLxC6",
+        "latitude":35.1631539989,
+        "longitude":33.3515538114,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipOYWZLxcY7GxdCivSzczKd_zh608_GoM_HlGNbc=w426-h240-k-no",
+        "rating":4.6
+    },
+    {
+        "name":"7 Kleidia",
+        "description":"In old town,Nicosia,hidden gem giving Cypriot vibes with Greek Rock Music(not busy)",
+        "mapsLink":"https://maps.app.goo.gl/229H82KsTzB3yREK7",
+        "latitude":35.1731688676,
+        "longitude":33.3643738723,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNcJN9GShZJGeBuD_egEnrha6oai9ykXGuVxjLI=w408-h544-k-no",
+        "rating":4.8
+    },
+    {
+        "name":"Baristro AllDayBar",
+        "description":null,
+        "mapsLink":"https://maps.app.goo.gl/zD2kLZReFLyyuZg68",
+        "latitude":35.1549860343,
+        "longitude":33.3994694092,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNK37PNjox3jqYYAOWtjryQ__hTZxz8NVA8Z96H=w426-h240-k-no",
+        "rating":4.5
+    },
+    {
+        "name":"Golem Brewhouse",
+        "description":"In Nicosia,serves original home-brewed Czech Beers(underrated)",
+        "mapsLink":"https://maps.app.goo.gl/RPSZaBvwtynE9FWM9",
+        "latitude":35.1743732093,
+        "longitude":33.3633799644,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPjaMDcX8BWOrMUPvn617PYQN8hTLBYSsbPkDBZ=w408-h272-k-no",
+        "rating":5
+    },
+    {
+        "name":"Notes and Spirits",
+        "description":null,
+        "mapsLink":"https://maps.app.goo.gl/oJU74vgNYra3XDEq6",
+        "latitude":35.1675744295,
+        "longitude":33.3566660644,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPpT-N3pNoOm3X41r0_yNcooS8Zs2WAp4L0FNkH=w426-h240-k-no",
+        "rating":4.7
+    },
+    {
+        "name":"SilverStar Bar",
+        "description":"Located in Nicosia",
+        "mapsLink":"https://maps.app.goo.gl/YEj8rUJpmzYEUKaJ9",
+        "latitude":35.169327711,
+        "longitude":33.3564807644,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNBPqokvxAtVrw6OTASz4lmH-HgVAMhnof-yo7L=w408-h293-k-no",
+        "rating":4.4
+    },
+    {
+        "name":"Volver",
+        "description":"Located in Nicosia",
+        "mapsLink":"https://maps.app.goo.gl/puq3TYTmvaQdS4Mk6",
+        "latitude":35.1738023397,
+        "longitude":33.3615128221,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPNPQkBGpj4GNd6BMSmE4oGEcZmBYVkA6Ridv1u=w408-h544-k-no",
+        "rating":4.8
+    },
+    {
+        "name":"New Division Pub",
+        "description":"Has a beautiful garden as well",
+        "mapsLink":"https://maps.app.goo.gl/acgS4vqyqxzYH8a29",
+        "latitude":35.1671847117,
+        "longitude":33.3565579644,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPlrTWZmvasqOtgPmaNqTObFxd9tyx3j9mBr_lb=w408-h544-k-no",
+        "rating":4.4
+    },
+    {
+        "name":"Korniza Baroque",
+        "description":"A cozy hidden gem in old town,Nicosia",
+        "mapsLink":"https://maps.app.goo.gl/1EnvJPJTSzVVWKYD6",
+        "latitude":35.1726908937,
+        "longitude":33.3654386475,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipMQ-wkKtV_myP6OeokncIJiIgwRkvnhrd6ITVCL=w427-h240-k-no",
+        "rating":4.7
+    },
+    {
+        "name":"Souvenir Social",
+        "description":"In Nicosia",
+        "mapsLink":"https://maps.app.goo.gl/SA8AmhzeuvgwxVHm7",
+        "latitude":35.1655770878,
+        "longitude":33.3634072644,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPlLevBUoY1GuJfztHzhab98yLY68iZkORF271R=w408-h725-k-no",
+        "rating":4.6
+    },
+    {
+        "name":"Plato's Bar and Restaurant",
+        "description":"Unique interior,has amazing foods and variety of drinks of best brands",
+        "mapsLink":"https://maps.app.goo.gl/YQJfiAkBQUQkm8218",
+        "latitude":35.1706755088,
+        "longitude":33.3626658356,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPh-QGl4Zcc6ne-6ivpsnYjgFSFdvQsn5hlOxlo=w408-h306-k-no",
+        "rating":4.5
+    },
+    {
+        "name":"Babylon Bar",
+        "description":"A traditional pub designed like 60s style with a garden and stylish wooden bar",
+        "mapsLink":"https://maps.app.goo.gl/zvoXW6WGeiw6gtQY9",
+        "latitude":35.163073168,
+        "longitude":33.3551963644,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNBu6w-LkVc5lff1PJ92gvz5Y6yrBuvNUgAqi-l=w408-h271-k-no",
+        "rating":4.4
+    },
+    {
+        "name":"Twisted The Bar",
+        "description":"Located in Nicosia",
+        "mapsLink":"https://maps.app.goo.gl/hqSYvfGtNnZfqYyLA",
+        "latitude":35.0979727609,
+        "longitude":33.3420514769,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNH1Dh3VSD-5p7sdOdXUKL1p765MgBQrqzYndpb=w408-h544-k-no",
+        "rating":4.7
+    },
+    {
+        "name":"The OldPowerhouse Chill Bar",
+        "description":"Has a beautiful open space",
+        "mapsLink":"https://maps.app.goo.gl/WLtCqQxRB4vio2bZ7",
+        "latitude":35.0979727609,
+        "longitude":33.3420514769,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipN8Zvdexds3foam2zX3m6RVeojF2uZaoZym10jv=w408-h272-k-no",
+        "rating":4.7
+    },
+    {
+        "name":"Picnic Bar",
+        "description":"Has a blend of vintage and modern ambiance(Food is expensive)",
+        "mapsLink":"https://maps.app.goo.gl/SvR2qBcTXJemd3JL8",
+        "latitude":35.1742713906,
+        "longitude":33.3632601509,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipOAQLrx9xfz_p6PBkthQLcPDG9NQhg1xhy6jjlx=w408-h544-k-no",
+        "rating":4.7
+    },
+    {
+        "name":"The NagsHead Pub Bar",
+        "description":"Located in Limassol",
+        "mapsLink":"https://maps.app.goo.gl/5312AmQdJbJSdrz57",
+        "latitude":34.7005425382,
+        "longitude":33.0991132356,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipNZov-5aJpKTUXhAvkVbJoY35KhaQ7cN8H3YfJp=w408-h272-k-no",
+        "rating":4.5
+    },
+    {
+        "name":"Bar Du Soleil",
+        "description":"Located in Limassol",
+        "mapsLink":"https://maps.app.goo.gl/LV6hyg41zPCopQBKA",
+        "latitude":34.6708327,
+        "longitude":33.0429244491,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipPsJHZL86-KVWyZ6lr9e66kdU45bSLabX8k7rtC=w408-h408-k-no",
+        "rating":4.3
+    },
+    {
+        "name":"Poe Bar and Restaurant",
+        "description":"In Limassol",
+        "mapsLink":"https://maps.app.goo.gl/a21u3s4S2Gir6q8NA",
+        "latitude":34.6756925697,
+        "longitude":33.0448877067,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipOL6e6crRz7Ubt28duOZHG80SFVDwYiBFYam5hx=w408-h409-k-no",
+        "rating":4.8
+    },
+    {
+        "name":"Guaba Beach Bar",
+        "description":"Organizes events and party along with being a general bar(is beside a sandy beach,kid-friendly during daytime)",
+        "mapsLink":"https://maps.app.goo.gl/kdA3Zi9aMwFDZ3Hk6",
+        "latitude":34.7026136611,
+        "longitude":33.1079708779,
+        "imageLink":"https://lh3.googleusercontent.com/p/AF1QipORaFNXuTXKNJnmeVn1NJcmeX13OapSSrIHVBkN=w426-h240-k-no",
+        "rating":4.4
+    },
+    {
+        "name":"Dusty Munky",
+        "description":"Sanctuary for electronic enthusiasts,offering a blend of nature and soundscapes,is a multipurpose venue and hosts w",
+        "mapsLink":"https://maps.app.goo.gl/uANK5kw1vvRwuKQa8",
+        "latitude":34.6797067228,
+        "longitude":33.0460934626,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipOc0KnHr5gFbysL2C7Qji7NlMdNmt-MSxU08QlO=w408-h544-k-no",
+        "rating":4.6
+    },
+    {
+        "name":"Loft Shisha Bar",
+        "description":"A hookah bar in Limassol",
+        "mapsLink":"https://maps.app.goo.gl/9U2gcYjEhad8QNVe6",
+        "latitude":34.6739260218,
+        "longitude":33.0414229546,
+        "imageLink":"https://lh5.googleusercontent.com/p/AF1QipOzCGoKYfqCQWETvRnY8RSzo_LZAVbpYmPnXhP4=w426-h240-k-no",
+        "rating":4.7
+    }
+]

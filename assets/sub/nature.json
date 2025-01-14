@@ -1,0 +1,48 @@
+[
+    {
+      "Name": "Red Lake ",
+      "MapLink": " https://maps.app.goo.gl/xzDw6QWmLUs7gun76",
+      "mapName": "Red Lake ",
+      "latitude": 35.0362293239399,
+      "longitude": 33.1166925369131,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNEomrMtB8Q70XbEQx8Zv578xS01RPTpa1D7o9r=w408-h274-k-no",
+      "rating": 4.4
+    },
+    {
+      "Name": "Nature Trail ",
+      "MapLink": " https://maps.app.goo.gl/WPWcocdn7Bm6YjcV9",
+      "mapName": "Nature Trail ",
+      "latitude": 35.0245740882857,
+      "longitude": 32.9343773686208,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPkh5YTop_LfOTFm49GQWd975sm_xhQlhEZ5QEI=w408-h543-k-no",
+      "rating": 4.8
+    },
+    {
+      "Name": "Chantara Waterfall ",
+      "MapLink": " https://maps.app.goo.gl/KqzccVz9AzUHie5XA",
+      "mapName": "Waterfall ",
+      "latitude": 34.9050486848749,
+      "longitude": 32.8417976498796,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPuZwXiiik7w5Pfbqi3beMWL29T13fmjHBkqyXU=w408-h544-k-no",
+      "rating": 4.6
+    },
+    {
+      "Name": "Prodromos Reservoir ",
+      "MapLink": " https://maps.app.goo.gl/tafq1BB2ZCrWWuYMA",
+      "mapName": "Reservoir ",
+      "latitude": 34.9490322216147,
+      "longitude": 32.8448764303595,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNpBCCRHm4IGzB5g-hHwOpEprr78NrH1SkP_quv=w408-h306-k-no",
+      "rating": 4.8
+    },
+    {
+        "Name": "Λιμνάτης River ",
+        "MapLink": " https://maps.app.goo.gl/tKuNUS53ycsvjEfi9",
+        "mapName": "Λιμνάτης River ",
+        "latitude": 34.8245930112675,
+        "longitude": 32.9191481399706,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMa3JpMCtFsTR1x8pUg830k3SzDnhIMoJnzBpkj=w408-h306-k-no",
+        "rating": 4.5
+      }
+  ]
+  

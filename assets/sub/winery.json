@@ -1,0 +1,31 @@
+[
+    {
+      "Name": "Vouni Panayia Winery ",
+      "MapLink": " https://maps.app.goo.gl/1dzwvNSYYvRuYc358",
+      "mapName": "Vouni Panayia Winery ",
+      "latitude": 34.9209867,
+      "longitude": 32.6259341,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNU2ehavPkkrZJCdR9b_KRcUKPCR8FnVUdWKl6K=w408-h306-k-no",
+      "rating": 4.8
+    },
+    {
+      "Name": " Ayia Mavri winery",
+      "MapLink": " https://maps.app.goo.gl/rCmbJsYLpiGtLyndA",
+      "mapName": " Ayia Mavri winery",
+      "latitude": 34.8439567,
+      "longitude": 32.8630384,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNv1dzx0FAJh9q0H82FFN5fiqcLmTe17NpiNExh=w408-h272-k-no",
+      "rating": 4.4,
+      "description": "Has own vineyards,got known as World's oldest wine still in production ,serves white and red sweet wines"
+    },
+    {
+      "Name": " Kolios winery",
+      "MapLink": " https://maps.app.goo.gl/U89Xkn7WXEoejgVr9",
+      "mapName": " Kolios winery",
+      "latitude": 34.8920625,
+      "longitude": 32.6149375,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipP_PIjf5tJbkxdH5jqpe91HKGgw2_I-1Htp8jT_=w408-h306-k-no",
+      "rating": 4.4,
+      "description": "Serves traditional wines ,has amazing views of green valleys"
+    }
+  ]

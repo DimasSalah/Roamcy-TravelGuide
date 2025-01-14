@@ -1,0 +1,47 @@
+[
+    {
+        "Name": "Lace Workshop and Silver ",
+        "MapLink": " https://maps.app.goo.gl/7irwkMoYCQUTGD6A8",
+        "mapName": "Lace Workshop and Silver ",
+        "latitude": 34.8674714430826,
+        "longitude": 33.3065082857635,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPJEti_oxj1Hvw9p-4FZPtzyRGJZ3_pT9yMr-_I=w408-h906-k-no",
+        "rating": 4.8
+      },
+      {
+        "Name": "Marina's shop ",
+        "MapLink": " https://maps.app.goo.gl/BqEPqhc8pKoRhZdTA",
+        "mapName": "Marina's shop ",
+        "latitude": 34.8673373314086,
+        "longitude": 33.3072504923523,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMwnIUH5a2UdeuWJetnm9M0XGSXFGxxLKNQomTU=w408-h544-k-no",
+        "rating": 4.8
+      },
+      {
+        "Name": "Mr Christou ",
+        "MapLink": " https://maps.app.goo.gl/zpky1ay6qqm8XSKr5",
+        "mapName": "Mr Christou ",
+        "latitude": 34.8667380284171,
+        "longitude": 33.306872935273,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPb_8Qxv3p6xXos80hDns531jtc-6M8MWqVE0Z9=w408-h544-k-no",
+        "rating": 5
+      },
+      {
+        "Name": "Foini Pottery ",
+        "MapLink": " https://maps.app.goo.gl/k8UVSVqU4jut8b289",
+        "mapName": "Foini Pottery ",
+        "latitude": 34.8974345674043,
+        "longitude": 32.8425442525292,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMHuOfSoy4VVXdshgSCaun6W-exl_XgV282MEbC=w408-h306-k-no",
+        "rating": 4.7
+      },  {
+        "Name": "Lofou Microbrewery (beers) ",
+        "MapLink": " https://maps.app.goo.gl/Qsrix1uLu7RDdq9KA",
+        "mapName": "Lofou Microbrewery (beers) ",
+        "latitude": 34.8172213,
+        "longitude": 32.8735775,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipN5RwbgxuoGIJoRq6orobuTZk51D6zGdgVwd0Zj=w426-h240-k-no",
+        "rating": 5,
+        "description": "A picturesque village with cobbled streets,where to eat-Lofou Microbrewery (beers) "
+      }
+]

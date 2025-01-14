@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "571995269814",
+    "project_id": "roamcy",
+    "storage_bucket": "roamcy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571995269814:android:d5bcf214927d8946ed9417",
+        "android_client_info": {
+          "package_name": "com.roamcy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571995269814-fluoodhfq7mjqkvdj2hidppmutuiiooq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roamcy.app",
+            "certificate_hash": "3df8334159cd453a4fec8a68deb4af5c0aa204c3"
+          }
+        },
+        {
+          "client_id": "571995269814-sfp4677hrli5d5fb10plelj1vvf57a37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD07sXxc_-PXVYYk-YIguMpUT1CANegxs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571995269814-sfp4677hrli5d5fb10plelj1vvf57a37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571995269814-ec2r5vsjmq76j34hqjlv8cobisu2glip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelGuide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

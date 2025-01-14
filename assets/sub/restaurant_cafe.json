@@ -1,0 +1,112 @@
+[
+    {
+      "Name": "Taverna Souvantza ",
+      "MapLink": " https://maps.app.goo.gl/hYg3pdnCY9U2Gt1F7",
+      "mapName": "Taverna Souvantza ",
+      "latitude": 35.0450519719812,
+      "longitude": 33.1563920517323,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPiLzEccdggJydxDH1gb-WSi5Ea4SUKYSFXIfUe=w408-h271-k-no",
+      "rating": 4.8
+    },
+    {
+      "Name": "Cafe Kyriakides ",
+      "MapLink": " https://maps.app.goo.gl/dnqEHTUPYgTVSVYBA",
+      "mapName": "Cafe Kyriakides ",
+      "latitude": 34.9848072645744,
+      "longitude": 32.8243134615188,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNm3I1wHAp4HDXMEcFzQU9WbBHT55g-ZIz2Frc=w408-h544-k-no",
+      "rating": 4.6
+    },
+    {
+      "Name": "Byzantino Restaurant ",
+      "MapLink": " https://maps.app.goo.gl/oCnJ581WETesHPxh8",
+      "mapName": "Byzantino Restaurant ",
+      "latitude": 35.4836637964056,
+      "longitude": 34.2400258823536,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNxh4JggC3EA8gYcYAW5msXzWA8v92g9udLNKxo=w408-h544-k-no",
+      "rating": 4.8
+    },
+    {
+      "Name": "Demetrion Fish Restaurant ",
+      "MapLink": " https://maps.app.goo.gl/KDLmZ5ZgJsCvdg1a6",
+      "mapName": "Demetrion Fish Restaurant ",
+      "latitude": 34.9720009061119,
+      "longitude": 33.901987186698,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipM08CfticwoI9omMeDicAtblVIoTLoYDXdywkTu=w408-h544-k-no",
+      "rating": 4.5
+    },
+    {
+      "Name": "Biscuit Cafe ",
+      "MapLink": " https://maps.app.goo.gl/6PHR98fuzYc8cJ5JA",
+      "mapName": "Biscuit Cafe ",
+      "latitude": 34.8666430313751,
+      "longitude": 33.3074863787157,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOc1czI3X6WX7SeVIzSMDRl2dQIlPQu2fjcRfQ=w408-h306-k-no",
+      "rating": 4.9
+    },
+    {
+      "Name": "The Xalamantourou Tavern ",
+      "MapLink": " https://maps.app.goo.gl/pSkWYwnAnETvSaXN6",
+      "mapName": "The Xalamantourou Tavern ",
+      "latitude": 34.7610026004862,
+      "longitude": 32.4543129222833,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOOdx6IDtGnEcLopSE9HId_kA9NaM8f7eeObQfB=w408-h544-k-no",
+      "rating": 4.7
+    },
+    {
+      "Name": "Lenia's Tavern ",
+      "MapLink": " https://maps.app.goo.gl/KGEcHwPuKFS1Q9ug6",
+      "mapName": "Lenia's Tavern ",
+      "latitude": 34.8232403,
+      "longitude": 32.8337745,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMfdIintdLnTRM3XI2DURTfk4ui32Ad9U6dcQ2v=w408-h457-k-no",
+      "rating": 4.7
+    },
+    {
+      "Name": "nous restaurant",
+      "MapLink": " https://maps.app.goo.gl/54LsMvUL81gfKnNT6",
+      "mapName": "nous restaurant",
+      "latitude": 34.9929136,
+      "longitude": 32.7944268,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNBgW4lAyh5O-DT5yY59h3Qn9KdyVwdLEQRyLOc=w408-h306-k-no",
+      "rating": 4.8
+    },
+    {
+      "Name": "Το παλιό σινεμά restaurant ",
+      "MapLink": " https://maps.app.goo.gl/9JhRcGEKJMAmqur4A",
+      "mapName": "Το παλιό σινεμά restaurant ",
+      "latitude": 34.9929136,
+      "longitude": 32.7944268,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNPIENdUBCs6XvvGGKS2AZWNVXbK69kPyugZJNX=w408-h306-k-no",
+      "rating": 4.2
+    },
+    {
+        "Name": "The Black Geese ",
+        "MapLink": " https://maps.app.goo.gl/KUnGsoDk8aosc9rx8",
+        "mapName": "The Black Geese ",
+        "latitude": 34.8474406031552,
+        "longitude": 32.8090350252742,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOM3Tnf4V15_mPH7ia_DhZry69znFo8fG3MpjAw=w408-h408-k-no",
+        "description": "The Black Geese is a popular restaurant in Cyprus that offers a wide range of traditional Cypriot dishes. The restaurant is known for its delicious food and friendly atmosphere, making it a great place to enjoy a meal with friends and family.",
+        "rating": 4.5
+      },
+    {
+        "Name": "Stou Kir Yianni ",
+        "MapLink": " https://maps.app.goo.gl/jmYJkEMwPMCDTKzH6",
+        "mapName": "Stou Kir Yianni ",
+        "latitude": 34.848714400291,
+        "longitude": 32.8099715694552,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipPLf8TAXaAZdXV64Qpmg72n4DlaUfNPkttGOZLk=w408-h306-k-no",
+        "description": "Stou Kir Yianni is a traditional Cypriot restaurant that offers a wide range of delicious dishes. The restaurant is known for its friendly atmosphere and excellent service, making it a great place to enjoy a meal with friends and family.",
+        "rating": 4.5
+      },
+    {
+      "Name": "Lania Tavern ",
+      "MapLink": " https://maps.app.goo.gl/LKGRHiyHv1szRBfh7",
+      "mapName": "Lania Tavern ",
+      "latitude": 34.8240034,
+      "longitude": 32.9203679,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOVSQM0OPUvxMpuCoI0aiWfwfwWxcLn3ZtO9Ygu=w408-h306-k-no",
+      "rating": 4.1
+    }
+  ]

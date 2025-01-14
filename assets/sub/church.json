@@ -1,0 +1,85 @@
+[
+    {
+      "Name": "Church of Elias ",
+      "MapLink": " https://maps.app.goo.gl/X1Cu9vWikvaqLCcG9",
+      "mapName": "Church of Elias ",
+      "latitude": 34.9894823016959,
+      "longitude": 32.846465218216,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMYnDsVpNe8RPEAaf6Hme_UX_3KA5VlRJE59Xzg=w408-h306-k-no",
+      "rating": 4.8
+    },
+    {
+      "Name": "Monastery ",
+      "MapLink": " https://maps.app.goo.gl/smRY1xXfHMzdEdNo8",
+      "mapName": "Monastery ",
+      "latitude": 34.913087063969,
+      "longitude": 32.8397195959127,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipNa-EcWR6fkH-g48RWSNJPtlHA3-ElNHzgV30kr=w408-h306-k-no",
+      "rating": 4.7
+    },
+    {
+      "Name": "Stavros Church ",
+      "MapLink": " https://maps.app.goo.gl/p9A1UbZBW9rxYF8VA",
+      "mapName": "Stavros Church ",
+      "latitude": 34.8939792983503,
+      "longitude": 32.8368394755362,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMTOM50aHZw1plNzFY3jS9kYky95rtS5-XUgVFa=w408-h306-k-no",
+      "rating": 4.6
+    },
+    {
+      "Name": "Monastery of the Holy Cross ",
+      "MapLink": " https://maps.app.goo.gl/8TL5zwtScwWB4w6k7",
+      "mapName": "Monastery of the Holy Cross ",
+      "latitude": 34.8479535604686,
+      "longitude": 32.8094112810944,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMTOM50aHZw1plNzFY3jS9kYky95rtS5-XUgVFa=w408-h306-k-no",
+      "rating": 4.6
+    },
+    {
+      "Name": "Macharias Monastery ",
+      "MapLink": " https://maps.app.goo.gl/ApsPJKvhtH2U9cLb7",
+      "mapName": "Macharias Monastery ",
+      "latitude": 34.9408141119435,
+      "longitude": 33.1918791689293,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOPBu-tjlCptn511cUXz6dLb5PktId0qIL7LqW1=w408-h271-k-no",
+      "description": "Macharias Monastery is a historic monastery located in the Troodos Mountains of Cyprus. It offers a peaceful atmosphere and beautiful views of the surrounding countryside, making it a great place to explore the local culture and enjoy the natural beauty of the area.",
+      "rating": 4.8
+    },
+    {
+      "Name": "Byzantine Church ",
+      "MapLink": " https://maps.app.goo.gl/iGcPiUYs8bSPMomL7",
+      "mapName": "Byzantine Church ",
+      "latitude": 34.759860885469,
+      "longitude": 32.4541132075518,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipO5oWuUdnOdPmUVDaVkRpH3sJAaXLJocCxpSA2H=w408-h306-k-no",
+      "rating": 4.6
+    },
+    {
+      "Name": "Monastery ",
+      "MapLink": " https://maps.app.goo.gl/ju5m6Zd9cRr9DQro7",
+      "mapName": "Monastery ",
+      "latitude": 34.9922835,
+      "longitude": 32.8302116,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipOQn1n3pnXHLXKUtD74uvlalyIhnCdiYswZ1smI=w408-h306-k-no",
+      "rating": 4.8
+    },
+    {
+      "Name": "Παναγία του Βαλανά Church ",
+      "MapLink": " https://maps.app.goo.gl/gdnuT83zLR1zRX3k8",
+      "mapName": "Παναγία του Βαλανά Church ",
+      "latitude": 34.8332404,
+      "longitude": 32.9203435,
+      "imageLink": "https://lh5.googleusercontent.com/p/AF1QipMgbhaBlIdbYLXMOUyH3aVa7D96DjwGAsl52-s5=w408-h544-k-no",
+      "rating": 4.9
+    },  
+    {
+        "Name": "Panayia Tou Moutoulla ",
+        "MapLink": " https://maps.app.goo.gl/BRrkhoc38e1Lmdfk6",
+        "mapName": "Panayia Tou Moutoulla ",
+        "latitude": 34.9828514408538,
+        "longitude": 32.8253338075518,
+        "imageLink": "https://lh5.googleusercontent.com/p/AF1QipN9pM2aoymn-8sQK-8_L9_SL8QTrfmiRkxj7A-d=w408-h306-k-no",
+        "rating": 4.5
+      }
+  ]
+  
