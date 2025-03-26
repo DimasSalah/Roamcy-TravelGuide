@@ -120,7 +120,6 @@ class HomeView extends GetView<HomeController> {
                                     enabled: true,
                                     child: VillageCardLoading(),
                                   )
-                                // : SizedBox();
                                 : VillageCard(
                                     village: controller.nearbyVillages.first);
                           },
@@ -131,12 +130,12 @@ class HomeView extends GetView<HomeController> {
                     MenuCard(),
                   ],
                 ),
-                ElevatedButton(
-                  onPressed: () {
-                    controller.importData();
-                  },
-                  child: Text('Import Data'),
-                )
+                // ElevatedButton(
+                //   onPressed: () {
+                //     controller.importData();
+                //   },
+                //   child: Text('Import Data'),
+                // )
               ],
             ),
           ),

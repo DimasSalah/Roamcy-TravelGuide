@@ -8,8 +8,11 @@ import 'utils/local_storage/storage_utility.dart';
 import 'utils/theme/app_theme.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   GLocalStorage().init();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(
     GetMaterialApp(
       title: "Application",
@@ -24,6 +27,7 @@ void main() async {
 }
 
 Future configureApp() async {
+  WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
@@ -31,9 +35,9 @@ Future configureApp() async {
   // await MellotippetFirebaseRemoteConfig.initialize();
   await GLocalStorage().init();
   // await _setupNotifications();
-// 
+//
   // Get
-    //GLOBAL
-    // ..put(AppLocation());
+  //GLOBAL
+  // ..put(AppLocation());
   // ..put(firebaseRemoteConfig)
 }

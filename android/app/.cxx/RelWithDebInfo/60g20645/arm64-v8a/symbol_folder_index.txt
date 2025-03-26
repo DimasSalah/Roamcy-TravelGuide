@@ -1,0 +1,1 @@
+/Users/mymac/development/project/Roamcy-TravelGuide/build/app/intermediates/cxx/RelWithDebInfo/60g20645/obj/arm64-v8a

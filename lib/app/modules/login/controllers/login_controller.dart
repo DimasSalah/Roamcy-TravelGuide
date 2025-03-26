@@ -58,8 +58,6 @@ class LoginController extends GetxController {
   Future<void> loginWithGoogle() async {
     await authenticationServices.signInWithGoogle(
         longitude: longitude.value, latitude: latitude.value);
-    GLocalStorage().saveData('isLoggedIn', true);
-    Get.offAllNamed(Routes.HOME);
   }
 
   Future<void> loginWithApple() async {

@@ -19,12 +19,18 @@ class VillageServices {
 
       // Get user's plan
       final userDoc = await _firestore.collection('users').doc(userId).get();
-      if (!userDoc.exists) throw Exception('User document not found');
+      if (!userDoc.exists) {
+        Get.offAllNamed(Routes.LOGIN);
+        throw Exception('User document not found');
+      }
 
       final userData = userDoc.data();
       final List<String> userPlan = List<String>.from(userData?['plan'] ?? []);
 
-      if (userPlan.isEmpty) return [];
+      if (userPlan.isEmpty) {
+        Get.offAllNamed(Routes.PLAN);
+        throw Exception('Choose your plan');
+      }
       print(userPlan);
 
       // Get data from all collections in the plan

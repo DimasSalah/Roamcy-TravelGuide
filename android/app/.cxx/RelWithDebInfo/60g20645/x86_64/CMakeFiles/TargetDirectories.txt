@@ -1,0 +1,2 @@
+/Users/mymac/development/project/Roamcy-TravelGuide/android/app/.cxx/RelWithDebInfo/60g20645/x86_64/CMakeFiles/edit_cache.dir
+/Users/mymac/development/project/Roamcy-TravelGuide/android/app/.cxx/RelWithDebInfo/60g20645/x86_64/CMakeFiles/rebuild_cache.dir

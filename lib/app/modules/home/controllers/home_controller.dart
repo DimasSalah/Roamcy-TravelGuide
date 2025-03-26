@@ -97,20 +97,22 @@ class HomeController extends GetxController {
     isLoadingVillage.value = true;
     try {
       final villages = await villageServices.getVillages();
-      print('get all villages');
       final nearbyVillages = villages
           .map((village) => MapEntry(
               village, calculateDistance(village.latitude, village.longitude)))
           .toList()
         ..sort((a, b) => a.value.compareTo(b.value));
+
+
       final allVillages = villages
           .map((village) => MapEntry(
               village, calculateDistance(village.latitude, village.longitude)))
           .toList();
+      print(nearbyVillages);
       this.nearbyVillages.value = nearbyVillages;
       this.allVillages.value = allVillages;
       isLoadingVillage.value = false;
-      print('kontol');
+
       print(nearbyVillages);
     } catch (e) {
       isLoadingVillage.value = false;

@@ -1,10 +1,12 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:get/get.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:sign_in_with_apple/sign_in_with_apple.dart';
 import 'dart:io' show Platform;
 
 import '../../../utils/logging/logger.dart';
+import '../../routes/app_pages.dart';
 import '../global_model/user_model.dart';
 
 class AuthenticationServices {
@@ -80,7 +82,8 @@ class AuthenticationServices {
   }
 
   // GOOGLE SIGN IN
-  Future<UserCredential> signInWithGoogle({double? longitude, double? latitude}) async {
+  Future<dynamic> signInWithGoogle(
+      {double? longitude, double? latitude}) async {
     try {
       // Trigger the authentication flow
       final GoogleSignInAccount? googleUser = await GoogleSignIn().signIn();
@@ -113,6 +116,9 @@ class AuthenticationServices {
           longitude ?? 0.0,
           latitude ?? 0.0,
         );
+        Get.offAllNamed(Routes.PLAN);
+      } else {
+        Get.offAllNamed(Routes.HOME);
       }
 
       return userCredential;
@@ -123,7 +129,8 @@ class AuthenticationServices {
   }
 
   // APPLE SIGN IN
-  Future<UserCredential> signInWithApple({double? longitude, double? latitude}) async {
+  Future<UserCredential> signInWithApple(
+      {double? longitude, double? latitude}) async {
     try {
       if (!Platform.isIOS) {
         throw 'Apple Sign In is only available on iOS devices';
